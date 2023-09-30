@@ -1,0 +1,810 @@
+/* this is Experts start */
+#experts{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#experts #experts1{
+    width: 50%;
+    float: left;
+    background-color: white;
+}
+#experts #experts2{
+    width: 50%;
+    float: left;
+    background-color: #36556b;
+}
+.expertstext{
+    color: black;
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.experts1text{
+    font-size: 20px;
+    color: rgb(102, 100, 100);
+    font-weight: 600;
+}
+.button1{
+    width: 150px;
+    height: 60px;
+    border-style: none;
+    border-radius: 10px;
+    border: 2px solid #1c1f48;
+    background-color: #1c1f48;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.button1:hover{
+    background-color: white;
+    color: #1c1f48;
+}
+.button2{
+    width: 150px;
+    height: 60px;
+    border-style: none;
+    border-radius: 10px;
+    border: 2px solid #1c1f48;
+    background-color: white;
+    color: #1c1f48;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.button2:hover{
+    background-color: #1c1f48;
+    color: white;
+}
+.iiccoon{
+    font-size: 20px;
+    color: #04cf9c; 
+}
+/* this is Experts end */
+
+/* this is logo start */
+#logo{
+    width: 100%;
+    background-color: #1c1f48;
+    float: left;
+}
+#logo #logo1{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#logo #logo2{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/* this is logo end */
+
+/* this is Repair start */
+#repair{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 100px;
+}
+#repair #repair1{
+    width: 50%;
+    float: left;
+}
+#repair #repair2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.repairtext1{
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+}
+.repairtext2{
+    color: gray;
+    font-size: 20px;
+    font-weight: 600;
+}
+.repairtext3{
+    color: #04cf9c;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.button3{
+    width: 150px;
+    height: 60px;
+    border-style: none;
+    border-radius: 10px;
+    border: 2px solid #1c1f48;
+    background-color: #1c1f48;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.button3:hover{
+    background-color: white;
+    border: 2px solid #04cf9c;
+    color: #1c1f48;
+}
+/* this is Repair end */
+
+/* this is Services start */
+#services{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#services #services1{
+    width: 40%;
+    float: left;
+}
+#services #services2{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+#services #services3{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+#services #services4{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.servicestext{
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+}
+.servicestext1{
+    font-size: 20px;
+    font-weight: 600;
+    color: gray;
+}
+.services2text{
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+}
+.services2text1{
+    font-size: 18px;
+    color: gray;
+    font-weight: 600;
+}
+.iconone{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #1c1f48;
+}
+.iconone:hover{
+    color: #04cf9c;
+}
+/* this is Services end */
+
+/* this is Conditioning start */
+#conditioning{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    background-color: #345068;
+    border-bottom: 2px solid gray;
+}
+#conditioning #conditioning1{
+    width: 33.3333333%;
+    float: left;
+    text-align: center;
+}
+#conditioning #conditioning2{
+    width: 33.3333333%;
+    float: left;
+    text-align: center;
+}
+#conditioning #conditioning3{
+    width: 33.3333333%;
+    float: left;
+    text-align: center;
+}
+.icontwo{
+    font-size: 50px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.conditioningtext{
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+.conditioningtext1{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+/* this is Conditioning end */
+
+/* this is Conditioning start */
+#trust{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    background-color: #345068;
+    margin-bottom: 100px;
+}
+#trust #trust1{
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+#trust #trust2{
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+.inputone{
+    width: 260px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.inputone1{
+    width: 260px;
+    height: 120px;
+    border-radius: 10px;
+}
+.inputonetext{
+    font-size: 17px;
+    color: white;
+    margin-right: 175px;
+}
+.button4{
+    width: 260px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    font-size: 18px;
+    background-color: #04cf9c;
+    border: 2px solid #04cf9c;
+}
+.button4:hover{
+    background-color: white;
+    color: #04cf9c;
+}
+.trusttext{
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+.trusttext1{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(230, 227, 227);
+}
+.trusttext11{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    margin-top: 15px;
+}
+.trusttext22{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(230, 227, 227);
+}
+.sint{
+    font-size: 50px;
+    color: #04cf9c;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.socialtext{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    margin-top: 30px;
+}
+.fa-facebook{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+}
+.fa-youtube{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: white;
+}
+.fa-twitter{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: white;
+}
+/* this is Conditioning end */
+
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.cooling{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+#cooling1{
+    width: 100%;
+    /* padding: 20px;
+    box-sizing: border-box; */
+    float: left;
+    justify-content: center;
+}
+#cooling1 #cooling11{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    text-align: center;
+}
+#cooling1 #cooling22{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    text-align: center;
+}
+#cooling1 #cooling33{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    text-align: center;
+}
+.coolingtext{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.coolingtext1{
+    font-size: 18px;
+    color: gray;
+    font-weight: 600;
+}
+.iconn{
+    font-size: 20px;
+    color: #04cf9c;
+    margin-top: 9px;
+    margin-right: 7px;
+}
+.more{
+    font-size: 18px;
+    margin-top: 5px;
+}
+/* this is Cooling end */
+
+/* this is Work start */
+#work{
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 30px;
+    border-bottom: 2px solid gray;
+}
+.worktext{
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+}
+.worktext1{
+    font-size: 20px;
+    color: rgb(233, 231, 231);;
+    font-weight: 600;
+}
+.workk{
+    width: 100%;
+    background-color: #344f68;
+    float: left;
+    margin-top: 50px;
+}
+/* this is Work end */
+
+/* this is Work start */
+#work1{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#work1 #work11{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#work1 #work22{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.workte1{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.workte11{
+    font-size: 18px;
+    color: rgb(233, 231, 231);
+}
+.buttonn{
+    background-color: #1c1f48;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.buttonn1{
+    background-color: rgb(228, 228, 228);
+    color: #1c1f48;
+    border: 2px solid #04cf9c;
+    padding: 10px;
+    box-sizing: border-box;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.fa-arrow-up{
+    color: #04cf9c;
+    margin-left: 20px;
+}
+.fa-arrow-down{
+    color: #04cf9c;
+    margin-left: 20px;
+}
+/* this is Work end */
+
+/* this is Affordable start */
+#affordable{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 70px;
+}
+#affordable #affordable1{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #235a68;
+    margin-top: 15px;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+}
+#affordable #affordable2{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f0eff4;
+    margin-top: 15px;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+}
+#affordable #affordable3{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: white;
+    margin-top: 15px;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+}
+.professional{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.numbar{
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+.services{
+    font-size: 20px;
+    color: white;
+    margin-top: 27px;
+    margin-left: 7px;
+}
+.amet{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+}
+.button5{
+    width: 230px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    font-size: 18px;
+    background-color: #1c1f48;
+    border: 2px solid #1c1f48;
+}
+.button5:hover{
+    background-color: #235a68;
+    border: 2px solid #04cf9c;
+}
+.magni{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.professionaltext{
+    font-size: 25px;
+    font-weight: 700;
+    color: #1c1f48;
+}
+.numbartext{
+    font-size: 50px;
+    font-weight: 700;
+    color: #04cf9c;
+}
+.servicestext3{
+    font-size: 20px;
+    color: #04cf9c;
+    margin-top: 27px;
+    margin-left: 7px;
+}
+.elit{
+    font-size: 20px;
+    font-weight: 600;
+    color: #04cf9c;
+}
+.button6{
+    width: 230px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-style: none;
+    color: black;
+    font-size: 18px;
+    background-color: #f0eff4;
+    border: 2px solid #04cf9c;
+}
+.button6:hover{
+    background-color: #1c1f48;
+    color: white;
+    border: 2px solid #1c1f48;
+}
+.dolores{
+    font-size: 20px;
+    color: #04cf9c;
+    margin-top: 20px;
+}
+.prices{
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+}
+.luctus{
+    font-size: 20px;
+    font-weight: 600;
+    color: #04cf9c;
+}
+.voluptate{
+    font-size: 20px;
+    color: #04cf9c;
+}
+.button7{
+    width: 230px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    font-size: 18px;
+    background-color: #1c1f48;
+    border: 2px solid #1c1f48;
+}
+.button7:hover{
+    background-color: white;
+    border: 2px solid #04cf9c;
+    color: #04cf9c;
+}
+/* this is Affordable end */
+
+/* this is Here start */
+#here{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+.news{
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+}
+.ipsupi{
+    font-size: 20px;
+    font-weight: 600;
+    color: #04cf9c;
+}
+/* this is Here end */
+
+/* this is Here start */
+#here1{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 70px;
+}
+#here1 #here11{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: #1c1f48;
+}
+#here1 #here22{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: #1c1f48;
+}
+#here1 #here33{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: #1c1f48;
+}
+.september{
+    color: #04cf9c;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.cool{
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.consectetur{
+    font-size: 20px;
+    color: rgb(214, 212, 212);
+    margin-top: 20px;
+    font-weight: 600;
+}
+.more1{
+    font-size: 18px;
+    color: white;
+    margin-top: 5px;
+}
+/* this is Here end */
+
+/* this is footer start */
+#footer{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    background-color: #1c1f48;
+    border-bottom: 2px solid gray;
+}
+#footer #footer1{
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#footer #footer2{
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#footer #footer3{
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#footer #footer4{
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+.adipiscing{
+    font-size: 20px;
+    color: rgb(221, 221, 221);
+    font-weight: 600;
+    margin-top: 30px;
+}
+.adipiscing1{
+    font-size: 20px;
+    color: rgb(221, 221, 221);
+    font-weight: 600;
+}
+.footertext{
+    font-size: 23px;
+    font-weight: 700;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.footertext1{
+    font-size: 18px;
+    color: rgb(221, 221, 221);
+    font-weight: 600;
+}
+.fa-clock{
+    color: #04cf9c;
+}
+.button11{
+    background-color: #1c1f48;
+    border: 2px solid #04cf9c;
+    border-radius: 10px;
+    height: 50px;
+    width: 130px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.button11:hover{
+    background-color: #04cf9c;
+}
+#footert0{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #1c1f48;
+    float: left;
+    text-align: center;
+}
+.copy{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+/* this is footer end */

@@ -1,0 +1,767 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+/* this is Experts start */
+#experts #experts1{
+    width: 50%;
+}
+#experts #experts2{
+    width: 50%;
+}
+/* this is Experts end */
+/* this is logo start */
+#logo #logo1{
+    width: 25%;
+}
+#logo #logo2{
+    width: 25%;
+}
+/* this is logo end */
+/* this is Repair start */
+#repair #repair1{
+    width: 50%;
+}
+#repair #repair2{
+    width: 50%;
+}
+/* this is Repair end */
+/* this is Services start */
+#services #services1{
+    width: 40%;
+}
+#services #services2{
+    width: 20%;
+}
+#services #services3{
+    width: 20%;
+}
+#services #services4{
+    width: 20%;
+}
+/* this is Services end */
+/* this is Conditioning start */
+#conditioning #conditioning1{
+    width: 33.3333333%;
+}
+#conditioning #conditioning2{
+    width: 33.3333333%;
+}
+#conditioning #conditioning3{
+    width: 33.3333333%;
+}
+/* this is Conditioning end */
+/* this is Conditioning start */
+#trust #trust1{
+    width: 50%;
+}
+#trust #trust2{
+    width: 50%;
+}
+/* this is Conditioning end */
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+}
+#cooling1 #cooling11{
+    width: 33.3333333%;
+}
+#cooling1 #cooling22{
+    width: 33.3333333%;
+}
+#cooling1 #cooling33{
+    width: 33.3333333%;
+}
+/* this is Cooling end */
+#work{
+    width: 50%;
+}
+/* this is Work start */
+#work1 #work11{
+    width: 50%;
+}
+#work1 #work22{
+    width: 50%;
+}
+/* this is Work end */
+/* this is Affordable start */
+#affordable #affordable1{
+    width: 33.3333333%;
+}
+#affordable #affordable2{
+    width: 33.3333333%;
+}
+#affordable #affordable3{
+    width: 33.3333333%;
+}
+/* this is Affordable end */
+/* this is Here start */
+#here1 #here11{
+    width: 33.3333333%;
+}
+#here1 #here22{
+    width: 33.3333333%;
+}
+#here1 #here33{
+    width: 33.3333333%;
+}
+/* this is Here end */
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* this is Experts start */
+#experts #experts1{
+    width: 50%;
+}
+#experts #experts2{
+    width: 50%;
+}
+/* this is Experts end */
+/* this is logo start */
+#logo #logo1{
+    width: 25%;
+}
+#logo #logo2{
+    width: 25%;
+}
+/* this is logo end */
+/* this is Repair start */
+#repair #repair1{
+    width: 50%;
+}
+#repair #repair2{
+    width: 50%;
+}
+/* this is Repair end */
+/* this is Services start */
+#services #services1{
+    width: 40%;
+}
+#services #services2{
+    width: 20%;
+}
+#services #services3{
+    width: 20%;
+}
+#services #services4{
+    width: 20%;
+}
+/* this is Services end */
+/* this is Conditioning start */
+#conditioning #conditioning1{
+    width: 33.3333333%;
+}
+#conditioning #conditioning2{
+    width: 33.3333333%;
+}
+#conditioning #conditioning3{
+    width: 33.3333333%;
+}
+/* this is Conditioning end */
+/* this is Conditioning start */
+#trust #trust1{
+    width: 50%;
+}
+#trust #trust2{
+    width: 50%;
+}
+/* this is Conditioning end */
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+}
+#cooling1 #cooling11{
+    width: 33.3333333%;
+}
+#cooling1 #cooling22{
+    width: 33.3333333%;
+}
+#cooling1 #cooling33{
+    width: 33.3333333%;
+}
+/* this is Cooling end */
+#work{
+    width: 50%;
+}
+/* this is Work start */
+#work1 #work11{
+    width: 50%;
+}
+#work1 #work22{
+    width: 50%;
+}
+/* this is Work end */
+/* this is Affordable start */
+#affordable #affordable1{
+    width: 33.3333333%;
+}
+#affordable #affordable2{
+    width: 33.3333333%;
+}
+#affordable #affordable3{
+    width: 33.3333333%;
+}
+/* this is Affordable end */
+/* this is Here start */
+#here1 #here11{
+    width: 33.3333333%;
+}
+#here1 #here22{
+    width: 33.3333333%;
+}
+#here1 #here33{
+    width: 33.3333333%;
+}
+/* this is Here end */
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* this is Experts start */
+#experts #experts1{
+    width: 50%;
+}
+#experts #experts2{
+    width: 50%;
+}
+/* this is Experts end */
+/* this is logo start */
+#logo #logo1{
+    width: 25%;
+}
+#logo #logo2{
+    width: 25%;
+}
+/* this is logo end */
+/* this is Repair start */
+#repair #repair1{
+    width: 50%;
+}
+#repair #repair2{
+    width: 50%;
+}
+/* this is Repair end */
+/* this is Services start */
+#services #services1{
+    width: 40%;
+}
+#services #services2{
+    width: 20%;
+}
+#services #services3{
+    width: 20%;
+}
+#services #services4{
+    width: 20%;
+}
+/* this is Services end */
+/* this is Conditioning start */
+#conditioning #conditioning1{
+    width: 33.3333333%;
+}
+#conditioning #conditioning2{
+    width: 33.3333333%;
+}
+#conditioning #conditioning3{
+    width: 33.3333333%;
+}
+/* this is Conditioning end */
+/* this is Conditioning start */
+#trust #trust1{
+    width: 50%;
+}
+#trust #trust2{
+    width: 50%;
+}
+/* this is Conditioning end */
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+}
+#cooling1 #cooling11{
+    width: 33.3333333%;
+}
+#cooling1 #cooling22{
+    width: 33.3333333%;
+}
+#cooling1 #cooling33{
+    width: 33.3333333%;
+}
+/* this is Cooling end */
+#work{
+    width: 50%;
+}
+/* this is Work start */
+#work1 #work11{
+    width: 50%;
+}
+#work1 #work22{
+    width: 50%;
+}
+/* this is Work end */
+/* this is Affordable start */
+#affordable #affordable1{
+    width: 33.3333333%;
+}
+#affordable #affordable2{
+    width: 33.3333333%;
+}
+#affordable #affordable3{
+    width: 33.3333333%;
+}
+/* this is Affordable end */
+/* this is Here start */
+#here1 #here11{
+    width: 33.3333333%;
+}
+#here1 #here22{
+    width: 33.3333333%;
+}
+#here1 #here33{
+    width: 33.3333333%;
+}
+/* this is Here end */
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* this is Experts start */
+#experts #experts1{
+    width: 50%;
+}
+#experts #experts2{
+    width: 50%;
+}
+/* this is Experts end */
+/* this is logo start */
+#logo #logo1{
+    width: 25%;
+}
+#logo #logo2{
+    width: 25%;
+}
+/* this is logo end */
+/* this is Repair start */
+#repair #repair1{
+    width: 50%;
+}
+#repair #repair2{
+    width: 50%;
+}
+/* this is Repair end */
+/* this is Services start */
+#services #services1{
+    width: 40%;
+}
+#services #services2{
+    width: 20%;
+}
+#services #services3{
+    width: 20%;
+}
+#services #services4{
+    width: 20%;
+}
+/* this is Services end */
+/* this is Conditioning start */
+#conditioning #conditioning1{
+    width: 33.3333333%;
+}
+#conditioning #conditioning2{
+    width: 33.3333333%;
+}
+#conditioning #conditioning3{
+    width: 33.3333333%;
+}
+/* this is Conditioning end */
+/* this is Conditioning start */
+#trust #trust1{
+    width: 50%;
+}
+#trust #trust2{
+    width: 50%;
+}
+/* this is Conditioning end */
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+}
+#cooling1 #cooling11{
+    width: 33.3333333%;
+}
+#cooling1 #cooling22{
+    width: 33.3333333%;
+}
+#cooling1 #cooling33{
+    width: 33.3333333%;
+}
+/* this is Cooling end */
+#work{
+    width: 50%;
+}
+/* this is Work start */
+#work1 #work11{
+    width: 50%;
+}
+#work1 #work22{
+    width: 50%;
+}
+/* this is Work end */
+/* this is Affordable start */
+#affordable #affordable1{
+    width: 33.3333333%;
+}
+#affordable #affordable2{
+    width: 33.3333333%;
+}
+#affordable #affordable3{
+    width: 33.3333333%;
+}
+/* this is Affordable end */
+/* this is Here start */
+#here1 #here11{
+    width: 33.3333333%;
+}
+#here1 #here22{
+    width: 33.3333333%;
+}
+#here1 #here33{
+    width: 33.3333333%;
+}
+/* this is Here end */
+/* this is footer start */
+#footer #footer1{
+    width: 25%;
+}
+#footer #footer2{
+    width: 25%;
+}
+#footer #footer3{
+    width: 25%;
+}
+#footer #footer4{
+    width: 25%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* this is Experts start */
+#experts #experts1{
+    width: 100%;
+}
+#experts #experts2{
+    width: 100%;
+}
+/* this is Experts end */
+/* this is logo start */
+#logo #logo1{
+    width: 100%;
+}
+#logo #logo2{
+    width: 100%;
+}
+/* this is logo end */
+/* this is Repair start */
+#repair #repair1{
+    width: 100%;
+}
+#repair #repair2{
+    width: 100%;
+}
+/* this is Repair end */
+/* this is Services start */
+#services #services1{
+    width: 100%;
+}
+#services #services2{
+    width: 100%;
+}
+#services #services3{
+    width: 100%;
+}
+#services #services4{
+    width: 100%;
+}
+/* this is Services end */
+/* this is Conditioning start */
+#conditioning #conditioning1{
+    width: 100%;
+}
+#conditioning #conditioning2{
+    width: 100%;
+}
+#conditioning #conditioning3{
+    width: 100%;
+}
+/* this is Conditioning end */
+/* this is Conditioning start */
+#trust #trust1{
+    width: 100%;
+}
+#trust #trust2{
+    width: 100%;
+}
+/* this is Conditioning end */
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+}
+#cooling1 #cooling11{
+    width: 100%;
+}
+#cooling1 #cooling22{
+    width: 100%;
+}
+#cooling1 #cooling33{
+    width: 100%;
+}
+/* this is Cooling end */
+#work{
+    width: 100%;
+}
+/* this is Work start */
+#work1 #work11{
+    width: 100%;
+}
+#work1 #work22{
+    width: 100%;
+}
+/* this is Work end */
+/* this is Affordable start */
+#affordable #affordable1{
+    width: 100%;
+}
+#affordable #affordable2{
+    width: 100%;
+}
+#affordable #affordable3{
+    width: 100%;
+}
+/* this is Affordable end */
+/* this is Here start */
+#here1 #here11{
+    width: 100%;
+}
+#here1 #here22{
+    width: 100%;
+}
+#here1 #here33{
+    width: 100%;
+}
+/* this is Here end */
+/* this is footer start */
+#footer #footer1{
+    width: 100%;
+}
+#footer #footer2{
+    width: 100%;
+}
+#footer #footer3{
+    width: 100%;
+}
+#footer #footer4{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* this is Experts start */
+#experts #experts1{
+    width: 100%;
+}
+#experts #experts2{
+    width: 100%;
+}
+/* this is Experts end */
+/* this is logo start */
+#logo #logo1{
+    width: 100%;
+}
+#logo #logo2{
+    width: 100%;
+}
+/* this is logo end */
+/* this is Repair start */
+#repair #repair1{
+    width: 100%;
+}
+#repair #repair2{
+    width: 100%;
+}
+/* this is Repair end */
+/* this is Services start */
+#services #services1{
+    width: 100%;
+}
+#services #services2{
+    width: 100%;
+}
+#services #services3{
+    width: 100%;
+}
+#services #services4{
+    width: 100%;
+}
+/* this is Services end */
+/* this is Conditioning start */
+#conditioning #conditioning1{
+    width: 100%;
+}
+#conditioning #conditioning2{
+    width: 100%;
+}
+#conditioning #conditioning3{
+    width: 100%;
+}
+/* this is Conditioning end */
+/* this is Conditioning start */
+#trust #trust1{
+    width: 100%;
+}
+#trust #trust2{
+    width: 100%;
+}
+/* this is Conditioning end */
+/* this is Cooling start */
+#cooling{
+    width: 100%;
+}
+#cooling1 #cooling11{
+    width: 100%;
+}
+#cooling1 #cooling22{
+    width: 100%;
+}
+#cooling1 #cooling33{
+    width: 100%;
+}
+/* this is Cooling end */
+#work{
+    width: 100%;
+}
+/* this is Work start */
+#work1 #work11{
+    width: 100%;
+}
+#work1 #work22{
+    width: 100%;
+}
+/* this is Work end */
+/* this is Affordable start */
+#affordable #affordable1{
+    width: 100%;
+}
+#affordable #affordable2{
+    width: 100%;
+}
+#affordable #affordable3{
+    width: 100%;
+}
+/* this is Affordable end */
+/* this is Here start */
+#here1 #here11{
+    width: 100%;
+}
+#here1 #here22{
+    width: 100%;
+}
+#here1 #here33{
+    width: 100%;
+}
+/* this is Here end */
+/* this is footer start */
+#footer #footer1{
+    width: 100%;
+}
+#footer #footer2{
+    width: 100%;
+}
+#footer #footer3{
+    width: 100%;
+}
+#footer #footer4{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
